@@ -1,0 +1,5 @@
+###### Requirements ######
+pandas
+geopandas
+sqlalchemy
+geoalchemy2
